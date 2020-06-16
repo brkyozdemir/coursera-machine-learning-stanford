@@ -1,2 +1,2 @@
 # coursera-machine-learning-standford
-Completed weekly assignments in coursera from the Standford University
+Completed weekly assignments in coursera from the Stanford University
